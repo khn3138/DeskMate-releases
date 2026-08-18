@@ -1,7 +1,3 @@
-# DeskMate-releases
-바탕화면 폴더 · 메모 · 이미지 오버레이 위젯 (Windows) — 다운로드 및 문의
-
-
 # DeskMate
 
 바탕화면에 상시 떠 있는 가벼운 폴더 · 메모 · 이미지 오버레이 위젯 (Windows 10 이상)
@@ -11,6 +7,49 @@
 - 이미지 · GIF 오버레이
 - 다크 / 라이트 / 커스텀 테마, 오버레이별 투명도 · 색상
 - 설정 백업 · 복원으로 다른 PC에서 그대로 사용
+
+> 아래 화면들은 실제 데모용 샘플 데이터로 찍은 스크린샷입니다 (배경은 실제 바탕화면이 아니라 위젯이 잘 보이도록 넣은 단색 배경).
+
+## 폴더 오버레이
+
+<img src="screenshots/folder.png" width="440">
+
+자주 쓰는 폴더를 바탕화면에 띄워 놓고 바로 열어봅니다. 하위 폴더는 자동으로 탭이 되고, 파일에는 색상 라벨을 붙여 눈에 띄게 할 수 있습니다. 검색창으로 지금 탭 안에서 바로 찾을 수 있습니다.
+
+## 메모 오버레이
+
+바탕화면에 늘 보이는 메모장입니다. 왼쪽은 일반 모드, 오른쪽은 **한 줄 모드** — 마지막 줄만 보여주고 Enter로 새 줄을 이어 쓰는 컴팩트한 로그용 모드입니다.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/note.png" width="300"></td>
+<td align="center"><img src="screenshots/note-compact.png" width="300"></td>
+</tr>
+</table>
+
+## 이미지 · GIF 오버레이
+
+<img src="screenshots/image.png" width="440">
+
+이미지나 GIF 파일 하나를 띄워두거나, 폴더를 감시해서 그 안의 최신 파일을 자동으로 보여주는 모드도 있습니다.
+
+## 전체 찾기 (Ctrl+Shift+F)
+
+<img src="screenshots/search.png" width="440">
+
+지금 바탕화면에 없는 오버레이까지 포함해서, 모든 메모 내용과 파일 이름을 한 번에 찾습니다. 메모 · 파일 · 폴더가 종류 배지로 구분되어 나옵니다.
+
+## 테마
+
+다크 / 라이트, 그리고 배경·강조 색상을 직접 고르는 커스텀 테마를 지원합니다.
+
+<table>
+<tr>
+<td align="center"><img src="screenshots/theme-dark.png" width="230"><br><sub>다크</sub></td>
+<td align="center"><img src="screenshots/theme-light.png" width="230"><br><sub>라이트</sub></td>
+<td align="center"><img src="screenshots/theme-custom.png" width="230"><br><sub>커스텀</sub></td>
+</tr>
+</table>
 
 ## 다운로드
 
